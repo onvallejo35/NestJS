@@ -1,5 +1,7 @@
 # Contributing to Nest
 
+Editando el archivo fuente
+
 We would love for you to contribute to Nest and help make it even better than it is
 today! As a contributor, here are the guidelines we would like you to follow:
 
